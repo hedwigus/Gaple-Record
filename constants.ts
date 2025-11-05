@@ -1,0 +1,1 @@
+export const PREDEFINED_NAMES: string[] = ['Agus', 'Alex', 'Ardi', 'Bambang', 'Budi', 'Cahyo', 'Doddy', 'Edy', 'Eko', 'Fikar', 'Firman', 'Handi', 'Hari', 'Ibnu', 'Imam', 'Joko', 'Kamil', 'Merdha', 'Parlin', 'Priyo', 'Teguh', 'Tris', 'Warno'];

@@ -1,0 +1,5 @@
+{
+  "name": "Domino Scorekeeper",
+  "description": "A web application to record scores for a domino game for up to four players. It highlights high and low scores, saves game progress, and allows sharing the final results.",
+  "requestFramePermissions": []
+}
